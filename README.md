@@ -1,2 +1,2 @@
-# fantatraits
-Functional traits of Testate Amoeba
+# FanTAtraits
+FUNctional Traits of Testate Amoeba
